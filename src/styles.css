@@ -123,3 +123,7 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+/* add an even more amazing and better animation to the social icons */
+img.socialIcon:hover {
+  animation: spin 1s infinite;
+}
